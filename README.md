@@ -28,7 +28,7 @@
 
 ### 📱 Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -80,12 +80,3 @@
 </div>
 
 ---
-
-## 📊 Weekly Development Breakdown
-
-```text
-Python        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   75%
-JavaScript    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩         55%
-Java          🟩🟩🟩🟩🟩🟩🟩🟩🟩             45%
-HTML/CSS      🟩🟩🟩🟩🟩🟩🟩🟩               40%
-Other         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩       60%
